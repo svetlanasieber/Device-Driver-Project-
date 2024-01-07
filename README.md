@@ -1,2 +1,2 @@
 # Device-Driver-Project-
-Yocto Project, Linux Embedded Programming
+Yocto Project, Embedded Linux Programming
